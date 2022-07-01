@@ -1,0 +1,58 @@
+
+.img2{
+    max-height:280px;
+}
+.signup:hover {
+    background-color: black;
+
+}
+.navText{
+    margin-left: 52%;
+}
+.logo{
+    width: 120px;
+    margin-left: 10%;
+}
+.lists{
+    
+    margin-bottom:30%;
+}
+.c1{
+    height: 100%;
+
+}
+.h{
+    width: 30rem;
+
+}
+.explore{
+    color:blue;
+    
+    
+}
+.explore:hover {
+    color: black;
+    cursor: pointer;
+
+    
+}
+#ex{
+
+    
+    font-size: 17px;
+}
+.logo2{
+    width: 10rem;
+}
+.adj{
+    font-size: 12px;
+    cursor: pointer;
+}
+.footer-link:hover{
+    color: black;
+    cursor: pointer;
+
+}
+
+
+
